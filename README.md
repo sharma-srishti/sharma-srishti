@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma-srishti&label=Profile%20views&color=0e75b6&style=flat" alt="sharma-srishti" /> </p>
 
-- 🔭 I’m currently working on **Genius AI**
+- 🔭 I’m currently working on **AI Based Traffic Management System**
 
-- 💬 Ask me about **Machine Learning ,Data Analysis**
+- 💬 Ask me about **Machine Learning ,Data Analysis, PowerBI**
 
 - 📫 How to reach me **srishti16702@gmail.com**
 
